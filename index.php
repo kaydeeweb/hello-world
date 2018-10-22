@@ -2,5 +2,5 @@
 
 <h2>This is a pull request</h2>
 
-Kaydee Web enters into the world of programming...
+<p>Kaydee Web enters into the world of programming...</p>
 
